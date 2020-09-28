@@ -22,7 +22,7 @@ Create view.py, import Ot, QMainWindow, QLineEdit, QGridLayout, QPushButton, QVB
 4. Now using tuples, define position of each and every button in the calculator layout.
 5. Construct the grid layout of buttons perfectly.
 
-### Step-2:
+### Step-3:
 Create main.py and import sys package.
 	
 1. Define the main function.
