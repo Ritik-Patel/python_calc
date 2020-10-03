@@ -36,7 +36,7 @@ Create model.py and add the following in the module.
 2. Pass the expression in the above listed method and check whether it throws any exception or not, if not then print the result.
 
 ### Step-5:
-Create controller.py. In this module add the folloeing things:
+Create controller.py. In this module add the following things:
 
 1. Define a class named Controller.
 2. Build a constructor which calls model and view parameters in it.
