@@ -29,4 +29,24 @@ Create main.py and import sys package.
 2. Create and call an instance of QApplication.
 3. Show the GUI using GUI() and show() methods.
 
+### Step-4:
+Create model.py and add the following in the module.
 
+1. Define evaluateExpression method in it.
+2. Pass the expression in the above listed method and check whether it throws any exception or not, if not then print the result.
+
+### Step-5:
+Create controller.py. In this module add the folloeing things:
+
+1. Define a class named Controller.
+2. Build a constructor which calls model and view parameters in it.
+3. Define 3 functions in it:
+	1. calculateResult: for evaluating result of expression.
+	2. buildExpression: for validating and building the expression.
+	3. connectSignals: to connect the expression through the buttons we defined in Step-3.
+
+
+#### After following the above mentioned steps, open an Anaconda cmd and enter the location where you have stored the package of python_calc or if you're using only python then install PyQt5 using the command 'pip install pyqt5'.
+#### Now, try to run to the main.py file, it will show you a layout like a basic calculator and then by entering values you can do your calculations on your newly created basic calculator.
+#### On a perfect execution of this calculator, you should the following output in your screen
+![Output Screen](/1.png)
