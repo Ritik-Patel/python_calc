@@ -47,6 +47,7 @@ Create controller.py. In this module add the folloeing things:
 
 
 
-#### After following the above mentioned steps, open an Anaconda cmd and enter the location where you have stored the package of python_calc or if you're using only python then install PyQt5 using the command 'pip install pyqt5'. Now, try to run to the main.py file, it will show you a layout like a basic calculator and then by entering values you can do your calculations on your newly created basic calculator.
+#### After following the above mentioned steps, open an Anaconda cmd and enter the location where you have stored the package of python_calc or if you're using only python then install PyQt5 using the command 'pip install pyqt5'.
+#### Now, try to run to the main.py file, it will show you a layout like a basic calculator and then by entering values you can do your calculations on your newly created basic calculator.
 #### On a perfect execution of this calculator, you should the following output in your screen
-![Output Screen](/1.png)
+![Output Screen](/Outputs/Output1.png)
